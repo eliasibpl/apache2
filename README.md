@@ -1,5 +1,4 @@
 # Apache2
-[TOC]
 ## Installation
 First let's update our repositories
 ```shell
